@@ -1,0 +1,409 @@
+commit 5d05dfd13f
+Merge: f21f7fa263ac 169e366c0808
+Author: Ingo Molnar <mingo@kernel.org>
+Date:   Wed Sep 19 13:25:35 2018 +0200
+
+    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	variant    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+	    Merge tag 'perf-urgent-for-mingo-4.19-20180918' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent
+    
+    Pull perf/urgent fixes from Arnaldo Carvalho de Melo:
+    
+     - Fix the build on !_GNU_SOURCE libc systems such as Alpine Linux/musl
+       libc due to usage of strerror_r glibc variant on libbpf (Arnaldo Carvalho de Melo)
+    
+     - Fix out-of-tree asciidoctor man page generation (Ben Hutchings)
+    
+    Signed-off-by: Arnaldo Carvalho de Melo <acme@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@kernel.org>
+

@@ -1,0 +1,3 @@
+diff --git a/file2.txt b/file2.txt
+old mode 100644
+new mode 100755

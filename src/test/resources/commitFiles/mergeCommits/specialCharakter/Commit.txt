@@ -1,0 +1,15 @@
+commit f21f7fa263ac
+Merge: f21f7fa263ac 169e366c0808
+Author: Ingo Molnar <mingo@kernel.org>
+Date:   Wed Sep 12 13:25:35 2018 +0200
+
+	™ }ßäöü~½ ← → 
+	∫ ∑ ∏ √ − ± ∞
+	&int; &sum; &prod; &radic; &minus; &plusmn; &infin; &hellip;
+	null
+	\null
+	\"
+	\\"
+	⁰ ⁱ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁺ ⁻ ⁼ ⁽ ⁾ 
+	∈ ∉ ∩ ∪ ⊂ ⊃ ⊆ ⊇
+	₀₁₂₃₄₅₆₇₈₉

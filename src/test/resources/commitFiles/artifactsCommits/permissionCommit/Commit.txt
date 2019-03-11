@@ -1,0 +1,11 @@
+commit 5ecf0bbbfe8adab9134a9ec456a30cbb20f7b47f (HEAD -> master)
+Author: Marcel <sparkm@uni-hildesheim.de>
+Date:   Fri Feb 22 13:35:07 2019 +0100
+
+    execution permissions
+
+    For test cases, execution permissions was added
+
+diff --git a/file1.txt b/file1.txt
+old mode 100644
+new mode 100755

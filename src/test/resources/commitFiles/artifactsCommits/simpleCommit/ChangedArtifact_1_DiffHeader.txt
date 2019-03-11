@@ -1,0 +1,5 @@
+diff --git a/drivers/staging/media/mt9t031/Kconfig b/drivers/staging/media/mt9t031/Kconfig
+index f48e06a03cdb..9a58aaf72edd 100644
+--- a/drivers/staging/media/mt9t031/Kconfig
++++ b/drivers/staging/media/mt9t031/Kconfig
+@@ -1,11 +1,5 @@

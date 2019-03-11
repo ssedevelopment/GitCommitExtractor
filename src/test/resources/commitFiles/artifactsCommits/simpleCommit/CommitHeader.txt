@@ -1,0 +1,12 @@
+commit 87d1eb2f72a8af00327aacccd5c1762bb59d602e
+Author: Hans Verkuil <hverkuil@xs4all.nl>
+Date:   Thu Aug 30 06:18:22 2018 -0400
+
+    media: staging/media/mt9t031/Kconfig: remove bogus entry
+    
+    The 'config SOC_CAMERA_IMX074' is a copy-and-paste error and should be removed.
+    This Kconfig is for mt9t031 only.
+    
+    Signed-off-by: Hans Verkuil <hans.verkuil@cisco.com>
+    Signed-off-by: Mauro Carvalho Chehab <mchehab+samsung@kernel.org>
+	

@@ -1,0 +1,4 @@
+ this
+-is a
++is a changed
+ small {] text

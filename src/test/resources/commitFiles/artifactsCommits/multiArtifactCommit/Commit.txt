@@ -1,0 +1,22 @@
+commit b38ba5dd0819f849855dd139189ac0cfb964c901
+Author: Marcel <sparkm@uni-hildesheim.de>
+Date:   Mon Jan 28 13:01:07 2019 +0100
+
+    changed content of files
+
+diff --git a/file1.txt b/file1.txt
+index 52a71af..5ae6d5f 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,3 @@
+ this
+-is a
++is a changed
+ small {] text
+diff --git a/file2.txt b/file2.txt
+index c27fa7c..5ede84e 100644
+--- a/file2.txt
++++ b/file2.txt
+@@ -1 +1 @@
+-this is a second file
++this is a second changed file

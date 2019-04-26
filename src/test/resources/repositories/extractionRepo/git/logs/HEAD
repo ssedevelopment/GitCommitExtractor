@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 dfcd771dd2de3f3bb53b9afdb7ac3dcd2e9bf303 Marcel <sparkm@uni-hildesheim.de> 1548676825 +0100	commit (initial): file1.txt added
+dfcd771dd2de3f3bb53b9afdb7ac3dcd2e9bf303 a9c1b95cfea48fb48320137d093fef7fbe3c6ef6 Marcel <sparkm@uni-hildesheim.de> 1548676839 +0100	commit: file2.txt added
+a9c1b95cfea48fb48320137d093fef7fbe3c6ef6 b38ba5dd0819f849855dd139189ac0cfb964c901 Marcel <sparkm@uni-hildesheim.de> 1548676867 +0100	commit: changed content of files
+b38ba5dd0819f849855dd139189ac0cfb964c901 7d485f6a97d0a8bd522cab69b7fa8c60d615353d Marcel <sparkm@uni-hildesheim.de> 1548676985 +0100	commit: created emptyFile.txt
+7d485f6a97d0a8bd522cab69b7fa8c60d615353d 5ecf0bbbfe8adab9134a9ec456a30cbb20f7b47f Marcel <sparkm@uni-hildesheim.de> 1550838907 +0100	commit: execution permissions
+5ecf0bbbfe8adab9134a9ec456a30cbb20f7b47f d16909177f80328ebc4cd6edea5147a16453a1bb Marcel <sparkm@uni-hildesheim.de> 1550841871 +0100	commit: more permission changes }ä#+?="*~ß||

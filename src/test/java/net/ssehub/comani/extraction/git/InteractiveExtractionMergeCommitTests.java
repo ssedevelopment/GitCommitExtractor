@@ -117,7 +117,6 @@ public class InteractiveExtractionMergeCommitTests extends AbstractInteractiveMo
     public void testCommitHeaderEquals() {
         String[] header = extractedCommit.getCommitHeader();
         for (int i = 0; i < expectedCommitHeader.size(); i++) {
-            System.out.println(header[i]);
             assertEquals("Content of commit header is not as expected", expectedCommitHeader.get(i), header[i]);
         }
     }
